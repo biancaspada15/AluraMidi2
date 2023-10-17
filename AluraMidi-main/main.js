@@ -51,3 +51,4 @@ document.querySelector('#Som_tecla_tom').play();
   
 }
 document.querySelector('.tecla_tom').onclik= tocaSomTom;
+ const listaDeTeclas = document.queryselectorALL('.tecla');
