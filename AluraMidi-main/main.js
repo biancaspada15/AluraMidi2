@@ -1,44 +1,53 @@
 function TocaSomPom(){
 document.querySelector('.tecla_pom').onclik= tocaSomPom;
+  
 }
 document.querySelector('#som_tecla_pom').play();
 
-function TocaSomPom(){
+function TocaClap(){
 document.querySelector('#Som_tecla_clap').play();
+  
 }
 document.querySelector('.tecla_clap').onclik= tocaSomClap;
 
-function TocaSomPom(){
+function TocaSomTim(){
 document.querySelector('#Som_tecla_tim').play();
+  
 }
 document.querySelector('.tecla_tim').onclik= tocaSomTim;
 
-function TocaSomPom(){
+function TocaSomPuff(){
 document.querySelector('#Som_tecla_puff').play();
+  
 }
 document.querySelector('.tecla_puff').onclik= tocaSomPuff;
 
-function TocaSomPom(){
+function TocaSomSplash(){
 document.querySelector('#Som_tecla_splash').play();
+  
 }
 document.querySelector('.tecla_splash').onclik= tocaSomSplash;
 
-function TocaSomPom(){
+function TocaSomtoim(){
 document.querySelector('#Som_tecla_toim').play();
+
 }
 document.querySelector('.tecla_toim').onclik= tocaSomToim;
 
-function TocaSomPom(){
+function TocaSomPshi(){
 document.querySelector('#Som_tecla_pshi').play();
+  
 }
 document.querySelector('.tecla_pshi').onclik= tocaSomPshi;
 
-function TocaSomPom(){
+function TocaSomtic(){
 document.querySelector('#Som_tecla_tic').play();
+  
 }
 document.querySelector('.tecla_tic').onclik= tocaSomTic;
 
-function TocaSomPom(){
+function TocaSomTom(){
 document.querySelector('#Som_tecla_tom').play();
+  
 }
 document.querySelector('.tecla_tom').onclik= tocaSomTom;
